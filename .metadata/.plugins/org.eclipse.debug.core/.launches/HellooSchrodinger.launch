@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
-<listEntry value="/XueXiaoXiaoStudyJava/src/de/galileocomputing/schroedinger/java/kapite101/HellooSchrodinger.java"/>
+<listEntry value="/com.qa.eclipse.sample.practice_java.test.XueXiaoXiaoStudyJava/src/de/galileocomputing/schroedinger/java/kapite101/HellooSchrodinger.java"/>
 </listAttribute>
 <listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
 <listEntry value="1"/>
@@ -9,5 +9,5 @@
 <booleanAttribute key="org.eclipse.jdt.launching.ATTR_EXCLUDE_TEST_CODE" value="true"/>
 <stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="de.galileocomputing.schroedinger.java.kapite101.HellooSchrodinger"/>
 <stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="Saten"/>
-<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="XueXiaoXiaoStudyJava"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="com.qa.eclipse.sample.practice_java.test.XueXiaoXiaoStudyJava"/>
 </launchConfiguration>
