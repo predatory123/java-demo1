@@ -1,4 +1,4 @@
-package com.qa.xuexiaoxiao.seventeen;
+package com.qa.xuexiaoxiao.seventeen.meldugen;
 
 import java.util.Locale;
 
@@ -24,14 +24,14 @@ public class FirstCase {
         Locale spanisch = Locale.forLanguageTag("es");
         Locale spanien = Locale.forLanguageTag("es-ES");
 
-        Locale chia = new Locale("zh","CN");
+//        Locale chia = new Locale("zh","CN");
 
         System.out.println(deutsch.getDisplayLanguage());
         System.out.println(franzoesisch.getDisplayLanguage());
         System.out.println(deutschland.getDisplayCountry());
         System.out.println(franzoesisch.getDisplayCountry());
-
-        System.out.println(chia.getDisplayLanguage());
-        System.out.println(chia.getDisplayCountry());
+//
+//        System.out.println(chia.getDisplayLanguage());
+//        System.out.println(chia.getDisplayCountry());
     }
 }

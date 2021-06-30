@@ -1,4 +1,4 @@
-package com.qa.xuexiaoxiao.seventeen;
+package com.qa.xuexiaoxiao.seventeen.meldugen;
 
 import java.awt.*;
 import java.util.Locale;
