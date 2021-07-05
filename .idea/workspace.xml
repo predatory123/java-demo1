@@ -6,7 +6,22 @@
   <component name="ChangeListManager">
     <list default="true" id="925a2643-5861-47ed-b002-787787c51be6" name="Default Changelist" comment="first commit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/xuexiaoxiao/seventeen/FirstCase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/xuexiaoxiao/seventeen/FirstCase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/java_projects.iml" beforeDir="false" afterPath="$PROJECT_DIR$/java_projects.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/xuexiaoxiao/seventeen/Bier.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/xuexiaoxiao/seventeen/CurrencySample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/xuexiaoxiao/seventeen/CurreneyTestCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/xuexiaoxiao/seventeen/FirstCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/xuexiaoxiao/seventeen/GetraenkBundle_de_DE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/xuexiaoxiao/seventeen/GetraenkBundle_fr_FR.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/xuexiaoxiao/seventeen/Getreank.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/xuexiaoxiao/seventeen/ResourceBundleSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/xuexiaoxiao/seventeen/SanpleCase.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/xuexiaoxiao/seventeen/SchuhkartonBundleSample.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/xuexiaoxiao/seventeen/SchuhkartonBundle_de_DE.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/xuexiaoxiao/seventeen/SchuhkartonBundle_fi_FI.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/xuexiaoxiao/seventeen/Wein.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/qa/xuexiaoxiao/seventeen/WeinOrderBier.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,6 +53,7 @@
       <list>
         <option value="Kotlin File" />
         <option value="JUnit5 Test Class" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -167,9 +183,13 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.folding" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.qa.xuexiaoxiao.eighteen" />
+      <recent name="com.qa.xuexiaoxiao.seventeen.resample" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\worksapce\java_projects\booktest\src\main\resources" />
       <recent name="D:\worksapce\java_projects\booktest\src" />
@@ -187,79 +207,93 @@
       <recent name="xuexiaoxiao.demonstring" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.StringFormat">
-    <configuration name="CurreneyTestCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qa.xuexiaoxiao.seventeen.CurreneyTestCase" />
+  <component name="RunManager" selected="JUnit.CocktailMixerTest.testEkligeZutatenKombination">
+    <configuration name="CocktailMixerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.qa.xuexiaoxiao.seventeen.datetime.*" />
+          <option name="PATTERN" value="com.qa.xuexiaoxiao.eighteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.qa.xuexiaoxiao.eighteen" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.xuexiaoxiao.eighteen.CocktailMixerTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DateTimeFormatCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qa.xuexiaoxiao.seventeen.datetime.DateTimeFormatCase" />
+    <configuration name="CocktailMixerTest.testAnzahlZutatenInCocktail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.qa.xuexiaoxiao.seventeen.datetime.*" />
+          <option name="PATTERN" value="com.qa.xuexiaoxiao.eighteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.qa.xuexiaoxiao.eighteen" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.xuexiaoxiao.eighteen.CocktailMixerTest" />
+      <option name="METHOD_NAME" value="testAnzahlZutatenInCocktail" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewTimeApiCase" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qa.xuexiaoxiao.seventeen.datetime.NewTimeApiCase" />
+    <configuration name="CocktailMixerTest.testAnzahlZutatenInCocktailOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.qa.xuexiaoxiao.seventeen.datetime.*" />
+          <option name="PATTERN" value="com.qa.xuexiaoxiao.eighteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.qa.xuexiaoxiao.eighteen" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.xuexiaoxiao.eighteen.CocktailMixerTest" />
+      <option name="METHOD_NAME" value="testAnzahlZutatenInCocktailOne" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NewTimeApiCaseTwo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qa.xuexiaoxiao.seventeen.datetime.NewTimeApiCaseTwo" />
+    <configuration name="CocktailMixerTest.testEkligeZutatenKombination" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.qa.xuexiaoxiao.seventeen.datetime.*" />
+          <option name="PATTERN" value="com.qa.xuexiaoxiao.eighteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.qa.xuexiaoxiao.eighteen" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.xuexiaoxiao.eighteen.CocktailMixerTest" />
+      <option name="METHOD_NAME" value="testEkligeZutatenKombination" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringFormat" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.qa.xuexiaoxiao.seventeen.datetime.StringFormat" />
+    <configuration name="CocktailMixerTest.testeCocktailMixer" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="java_projects" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.qa.xuexiaoxiao.seventeen.datetime.*" />
+          <option name="PATTERN" value="com.qa.xuexiaoxiao.eighteen.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="com.qa.xuexiaoxiao.eighteen" />
+      <option name="MAIN_CLASS_NAME" value="com.qa.xuexiaoxiao.eighteen.CocktailMixerTest" />
+      <option name="METHOD_NAME" value="testeCocktailMixer" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.StringFormat" />
-        <item itemvalue="Application.DateTimeFormatCase" />
-        <item itemvalue="Application.NewTimeApiCaseTwo" />
-        <item itemvalue="Application.NewTimeApiCase" />
-        <item itemvalue="Application.CurreneyTestCase" />
+        <item itemvalue="JUnit.CocktailMixerTest.testEkligeZutatenKombination" />
+        <item itemvalue="JUnit.CocktailMixerTest.testAnzahlZutatenInCocktailOne" />
+        <item itemvalue="JUnit.CocktailMixerTest.testAnzahlZutatenInCocktail" />
+        <item itemvalue="JUnit.CocktailMixerTest" />
+        <item itemvalue="JUnit.CocktailMixerTest.testeCocktailMixer" />
       </list>
     </recent_temporary>
   </component>
@@ -297,6 +331,21 @@
       <workItem from="1595646153384" duration="850000" />
       <workItem from="1595658042341" duration="302000" />
     </task>
+    <task id="LOCAL-00001" summary="insert: 新增章节内容">
+      <created>1625066377485</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1625066377486</updated>
+    </task>
+    <task id="LOCAL-00002" summary="insert: 新增章节内容">
+      <created>1625066408697</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1625066408697</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
@@ -384,7 +433,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="CHECK_NEW_TODO" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="insert: 新增章节内容" />
+    <option name="LAST_COMMIT_MESSAGE" value="insert: 新增章节内容" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -392,6 +442,10 @@
         <breakpoint enabled="true" type="java-exception">
           <properties class="java.lang.IllegalArgumentException" package="java.lang" />
           <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="7" />
         </breakpoint>
       </breakpoints>
     </breakpoint-manager>
