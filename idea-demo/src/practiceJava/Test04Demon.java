@@ -1,4 +1,4 @@
-package PracticeJava;
+package practiceJava;
 
 public class Test04Demon {
     public static void main(String[] args){

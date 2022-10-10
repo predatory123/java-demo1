@@ -1,4 +1,4 @@
-package PracticeJava;
+package practiceJava;
 /* 方法重载
     1.比较两个数据是否相等（两个byte，两个int，两个long）
     2.判断哪些方法是正常重载

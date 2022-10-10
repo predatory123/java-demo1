@@ -1,4 +1,4 @@
-package PracticeJava;
+package practiceJava;
 /*
 如果在case中有break，将按照正常顺序执行
 如果没有，则产生穿刺效果，连续执行，直到遇到break或程序结束为止

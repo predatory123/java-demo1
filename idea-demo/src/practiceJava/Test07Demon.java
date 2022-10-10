@@ -1,4 +1,4 @@
-package PracticeJava;
+package practiceJava;
 /* 数组
 1.动态初始化(指定长度)
     数据类型[] 数组名称 = New 数据类型[数组长度]

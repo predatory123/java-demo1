@@ -1,4 +1,4 @@
-package PracticeJava;
+package practiceJava;
 // 算术运算符
 public class Test01Demon {
     public static void main(String[] args){

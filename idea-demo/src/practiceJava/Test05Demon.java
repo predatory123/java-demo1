@@ -1,4 +1,4 @@
-package PracticeJava;
+package practiceJava;
 /*方法练习
     1.比较两个数字的大小
     2.求出1到100之间所有的和

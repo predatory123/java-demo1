@@ -1,4 +1,4 @@
-package PracticeJava;
+package practiceJava;
 /* 条件判断语句 */
 public class Test02Demon {
     public static void main(String[] args){
