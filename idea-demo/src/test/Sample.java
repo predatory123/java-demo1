@@ -37,4 +37,5 @@ public class Sample {
             System.out.println(teachers[j].getId() + teachers[j].getName()+teachers[j].getAge()+teachers[j].getBirthday());
         }
     }
+
 }
