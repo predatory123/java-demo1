@@ -1,9 +1,0 @@
-package testdemon;
-
-public class Test01Demon {
-	public static void main(String[] args) {
-		float a = 0.34F;
-		System.out.println(a);
-		
-	}
-}
